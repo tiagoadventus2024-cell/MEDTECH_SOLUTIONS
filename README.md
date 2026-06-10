@@ -10,19 +10,19 @@ Durante o desenvolvimento foram utilizados conceitos de estruturas de dados e al
 
 
 
-Funcionalidades
-Cadastro de clientes
-Cadastro de atendentes
-Inserção de clientes em filas
-Fila comum e fila prioritária
-Chamada do próximo cliente
-Finalização de atendimento
-Desfazer o último atendimento realizado (Undo)
-Busca rápida de clientes por ID
-Relatório de tempo médio de atendimento
-Ordenação dos atendimentos por duração
-Exportação dos dados para arquivo CSV
-Remoção de clientes inativos
+# Funcionalidades:
+* Cadastro de clientes
+* Cadastro de atendentes
+* Inserção de clientes em filas
+* Fila comum e fila prioritária
+* Chamada do próximo cliente
+* Finalização de atendimento
+* Desfazer o último atendimento realizado (Undo)
+* Busca rápida de clientes por ID
+* Relatório de tempo médio de atendimento
+* Ordenação dos atendimentos por duração
+* Exportação dos dados para arquivo CSV
+* Remoção de clientes inativos
 
 
 
@@ -38,8 +38,8 @@ Utilizada para controlar a ordem de atendimento dos clientes.
 
 Existem duas filas:
 
-Fila comum
-Fila prioritária
+* Fila comum
+* Fila prioritária
 
 Os clientes prioritários sempre têm preferência no atendimento.
 
@@ -114,32 +114,34 @@ Como Executar
 python main.py
 
 
-Exemplo de Uso
-Cadastrar um cliente.
-Inserir o cliente na fila.
-Chamar o próximo cliente.
-Finalizar o atendimento.
-Consultar relatórios.
-Exportar os dados para CSV.
+Exemplo de Uso:
+1. Cadastrar um cliente.
+2. Inserir o cliente na fila.
+3. Chamar o próximo cliente.
+4. Finalizar o atendimento.
+5. Consultar relatórios.
+6. Exportar os dados para CSV.
 
-Conceitos Aplicados
+# Conceitos Aplicados
 
 Neste projeto foram aplicados os seguintes conceitos:
 
-Programação Orientada a Objetos (POO)
-Classes e Objetos
-Encapsulamento
-Estruturas de Dados
-Filas
-Pilhas
-Listas Encadeadas
-Vetores
-Busca Binária
-Merge Sort
-Manipulação de Arquivos CSV
-Tratamento de Exceções
-Modularização de Código
-Considerações Finais
+* Programação Orientada a Objetos (POO)
+* Classes e Objetos
+* Encapsulamento
+* Estruturas de Dados
+* Filas
+* Pilhas
+* Listas Encadeadas
+* Vetores
+* Busca Binária
+* Merge Sort
+* Manipulação de Arquivos CSV
+* Tratamento de Exceções
+* Modularização de Código
+
+
+# Considerações Finais
 
 O projeto foi desenvolvido para praticar conceitos de Python e estruturas de dados vistos durante a disciplina. Além de reforçar o uso de algoritmos de busca e ordenação, também permitiu trabalhar com organização de código em módulos e desenvolvimento de aplicações em linha de comando.
 
