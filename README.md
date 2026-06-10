@@ -1,12 +1,12 @@
 # MEDTECH_SOLUTIONS
-## Sistema de Atendimento MedTech Solutions
-# Sobre o projeto
+Sistema de Atendimento MedTech Solutions
+Sobre o projeto
 
-# Este projeto foi desenvolvido em Python com o objetivo de simular um sistema de atendimento para uma clínica ou empresa da área da saúde.
+Este projeto foi desenvolvido em Python com o objetivo de simular um sistema de atendimento para uma clínica ou empresa da área da saúde.
 
-# O sistema funciona pelo terminal e permite cadastrar clientes, organizar filas de atendimento, registrar atendimentos e gerar relatórios.
+O sistema funciona pelo terminal e permite cadastrar clientes, organizar filas de atendimento, registrar atendimentos e gerar relatórios.
 
-# Durante o desenvolvimento foram utilizados conceitos de estruturas de dados e algoritmos estudados em sala de aula, como filas, pilhas, listas # #encadeadas, busca binária e Merge Sort.
+Durante o desenvolvimento foram utilizados conceitos de estruturas de dados e algoritmos estudados em sala de aula, como filas, pilhas, listas # encadeadas, busca binária e Merge Sort.
 
 #Funcionalidades
 #Cadastro de clientes
@@ -56,59 +56,59 @@
 
 # Estrutura do Projeto
 # Projeto
-#│
-#├── models
-#│   ├── client.py
-#│   ├── attendant.py
-#│   └── attendance.py
-#│
-#├── core
-#│   ├── structures.py
-#│   └── algorithms.py
-#│
-#├── services
-#│   └── manager.py
-#│
-#├── ui
-#│   └── terminal.py
-#│
-#├── data
-#│
-#└── main.py
+│
+├── models
+│   ├── client.py
+│   ├── attendant.py
+│   └── attendance.py
+│
+├── core
+│   ├── structures.py
+│   └── algorithms.py
+│
+├── services
+│   └── manager.py
+│
+├── ui
+│   └── terminal.py
+│
+├── data
+│
+└── main.py
 Como Executar
-#1. Clone o repositório
-#git clone LINK_DO_REPOSITORIO
-#2. Entre na pasta do projeto
-#cd nome-do-projeto
-#3. Execute o programa
-#python main.py
-#Exemplo de Uso
-#Cadastrar um cliente.
-#Inserir o cliente na fila.
-# Chamar o próximo cliente.
-#Finalizar o atendimento.
-#Consultar relatórios.
-#Exportar os dados para CSV.
-#Conceitos Aplicados
+1. Clone o repositório
+git clone LINK_DO_REPOSITORIO
+2. Entre na pasta do projeto
+cd nome-do-projeto
+3. Execute o programa
+python main.py
+Exemplo de Uso
+Cadastrar um cliente.
+Inserir o cliente na fila.
+ Chamar o próximo cliente.
+Finalizar o atendimento.
+Consultar relatórios.
+Exportar os dados para CSV.
+Conceitos Aplicados
 
-#Neste projeto foram aplicados os seguintes conceitos:
+Neste projeto foram aplicados os seguintes conceitos:
 
-#Programação Orientada a Objetos (POO)
-#Classes e Objetos
-#Encapsulamento
-#Estruturas de Dados
-#Filas
-#Pilhas
-#Listas Encadeadas
-#Vetores
-#Busca Binária
-#Merge Sort
-#Manipulação de Arquivos CSV
-#Tratamento de Exceções
-#Modularização de Código
-#Considerações Finais
+Programação Orientada a Objetos (POO)
+Classes e Objetos
+Encapsulamento
+Estruturas de Dados
+Filas
+Pilhas
+Listas Encadeadas
+Vetores
+Busca Binária
+Merge Sort
+Manipulação de Arquivos CSV
+Tratamento de Exceções
+Modularização de Código
+Considerações Finais
 
-#O projeto foi desenvolvido para praticar conceitos de Python e estruturas de dados vistos durante a disciplina. Além de reforçar o uso de #algoritmos de busca e ordenação, também permitiu trabalhar com organização de código em módulos e desenvolvimento de aplicações em linha de comando.
+O projeto foi desenvolvido para praticar conceitos de Python e estruturas de dados vistos durante a disciplina. Além de reforçar o uso de #algoritmos de busca e ordenação, também permitiu trabalhar com organização de código em módulos e desenvolvimento de aplicações em linha de comando.
 
 ### Colaboradores
 ## Kaua Barroso Silva 
