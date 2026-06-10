@@ -1,4 +1,4 @@
-Sistema de Atendimento MedTech Solutions
+# Sistema de Atendimento MedTech Solutions
 Sobre o projeto
 
 Este projeto foi desenvolvido em Python com o objetivo de simular um sistema de atendimento para uma clínica ou empresa da área da saúde.
@@ -66,23 +66,41 @@ Estrutura do Projeto
 
 Projeto
 │
+
 ├── models
-│   ├── client.py
+
+│├── client.py
+
 │   ├── attendant.py
+
 │   └── attendance.py
+
 │
+
 ├── core
+
 │   ├── structures.py
+
 │   └── algorithms.py
+
 │
+
 ├── services
+
 │   └── manager.py
+
 │
+
 ├── ui
+
 │   └── terminal.py
+
 │
+
 ├── data
+
 │
+
 └── main.py
 
 
