@@ -147,10 +147,13 @@ O projeto foi desenvolvido para praticar conceitos de Python e estruturas de dad
 
 Colaboradores:
 
-## Kaua Barroso Silva 
-## Tiago Soares da Cruz
-## Erick Maycon da Silva Carneiro
-## Argeu Viana Almeida
+ Kaua Barroso Silva 
+ 
+ Tiago Soares da Cruz
+ 
+ Erick Maycon da Silva Carneiro
+ 
+ Argeu Viana Almeida
 
 
 
